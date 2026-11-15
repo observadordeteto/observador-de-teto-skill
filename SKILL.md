@@ -103,7 +103,7 @@ Apresentar, quando houver planejamento semanal, uma tabela ou resumo com: tema, 
 
 ## 6. Estrutura 1: Roteiro de vídeo — Reels/TikTok
 
-Entregar um rascunho de vídeo de **50 a 60 segundos**, aproximadamente 130–150 palavras, salvo se o usuário pedir outra duração.
+Entregar um rascunho de vídeo de 45 a 60 segundos. Usar 50–60 segundos e aproximadamente 130–150 palavras como padrão quando o desenvolvimento exigir; não prolongar artificialmente uma ideia que esteja completa em cerca de 45 segundos. salvo se o usuário pedir outra duração.
 
 ### Locução
 
