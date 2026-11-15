@@ -140,7 +140,7 @@ Criar 4 slides independentes sobre o mesmo tema, cada um abordando um ângulo di
 
 > “Photorealistic surrealism in the style of Erik Johansson, seamless visual paradox and mind-bending optical illusion. [INSERT THE ILLUSION COMPOSITION FROM THE CHOSEN THEMATIC VISUAL UNIVERSE IN ENGLISH] [DESCRIBE THE IMAGE SETTING AND ENVIRONMENT IN ENGLISH], blending two realities into one impossible physical object, realistic lighting, highly tangible physical textures, sharp focus, warm amber highlights, soft electric blue accent lights, atmospheric mood, 8k, photorealistic rendering --ar 4:5”
 
-Escolher o estilo mais adequado para cada slide. Não inserir texto na imagem, a menos que o usuário peça explicitamente.
+Escolher o estilo mais adequado para todos os slides de cada carrosel, de preferência em alternar os estilos entre um e outro carrosel. Não inserir texto na imagem, a menos que o usuário peça explicitamente.
 
 ### Formato de entrega
 
