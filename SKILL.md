@@ -1,6 +1,6 @@
 ---
 name: observador-de-teto
-description: Estratégia editorial, análise criativa e desenvolvimento de rascunhos de roteiros para O Observador de Teto. Use para sugerir temas, ganchos, roteiros de Reels/TikTok de 45–60 segundos e carrosséis de 4 slides alinhados ao ceticismo lúcido, à estética surrealista e ao foco em salvamentos e compartilhamentos. Não publicar nem executar ações de escrita na conta.
+description: Estratégia editorial, análise criativa e desenvolvimento de rascunhos de roteiros para O Observador de Teto. Use para sugerir temas, ganchos, roteiros de Reels/TikTok de Duração: 45 a 60 segundos. Como padrão preferencial, usar 50 a 60 segundos e aproximadamente 130 a 150 palavras. Permitir roteiros mais próximos de 45 segundos quando a ideia estiver completa sem prolongamento artificial. e carrosséis de 4 slides alinhados ao ceticismo lúcido, à estética surrealista e ao foco em salvamentos e compartilhamentos. Não publicar nem executar ações de escrita na conta.
 ---
 
 # O Observador de Teto — Motor Criativo via GitHub
